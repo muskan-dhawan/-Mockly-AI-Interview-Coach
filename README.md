@@ -3,7 +3,7 @@
   <h2 style="margin-top: 5px; border-bottom: none;">Mockly: AI Interview Coach</h2>
 </div>
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/wshngwell/Mockly-AI-Interview-Coach)
+[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/muskan-dhawan/-Mockly-AI-Interview-Coach)
 
 Mockly is an AI-powered Android application designed to help you prepare for and ace your technical interviews. Built with Kotlin and Jetpack Compose, the app provides a realistic simulation of an interview session where you can practice answering questions for various IT roles and experience levels. Get instant, intelligent feedback on your voice responses and track your progress.
 
@@ -70,7 +70,7 @@ To build and run the project locally, follow these steps:
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/wshngwell/mockly-ai-interview-coach.git
+    git clone https://github.com/muskan-dhawan/-Mockly-AI-Interview-Coach.git
     ```
 2.  Navigate to the project directory.
 
